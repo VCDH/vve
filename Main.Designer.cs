@@ -983,7 +983,7 @@ namespace VVE
             this.btPostNaarFietsViewer.Name = "btPostNaarFietsViewer";
             this.btPostNaarFietsViewer.Size = new System.Drawing.Size(393, 30);
             this.btPostNaarFietsViewer.TabIndex = 8;
-            this.btPostNaarFietsViewer.Text = "UIitvoeren en posten";
+            this.btPostNaarFietsViewer.Text = "Uitvoeren en posten";
             this.btPostNaarFietsViewer.UseVisualStyleBackColor = true;
             this.btPostNaarFietsViewer.Click += new System.EventHandler(this.btPostNaarFietsViewer_Click);
             // 
