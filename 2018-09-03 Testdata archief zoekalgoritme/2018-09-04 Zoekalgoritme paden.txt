@@ -1,0 +1,20 @@
+Mogelijke paden binnen findTimerefs() algoritme.
+Vanaf state=nietsGevonden:
+< ts : state=beforeFound
+	- < ts : verder zoeken
+	- = ts : klaar
+	- > ts : klaar
+	- max bereikt: klaar
+> ts : state afterFound
+	- < ts : bothFound, verder zoeken binnen bestand
+		- direct max bereikt: klaar
+		- < ts : overschrijven before, verder zoeken
+		- > ts : overschrijven after, klaar
+		- = ts : klaar
+	- = ts : klaar
+	- > ts : overschrijven after, verder naar voren zoeken	
+	- max bereikt: klaar
+= ts : klaar
+geen tijdreferenties gevonden in bestand:
+	- !minOffsetSearched : voorgaande zoeken (negatieve offset)
+	- minOffsetSearched : volgende zoeken (positieve offset)

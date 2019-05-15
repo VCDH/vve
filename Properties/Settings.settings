@@ -1,0 +1,129 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VVE.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="VLogDataDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\share\vlog_data</Value>
+    </Setting>
+    <Setting Name="VLogCfgDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\share\vlog_data\configuratiebestanden</Value>
+    </Setting>
+    <Setting Name="KmlConfigDir" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\share\vlog_data\kml</Value>
+    </Setting>
+    <Setting Name="InstellingWachttijdBezettijdVerweglus" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="InstellingWachttijdBezettijdKoplus" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.0</Value>
+    </Setting>
+    <Setting Name="InstellingWachttijdNormRijtijdVerweglus" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">5.0</Value>
+    </Setting>
+    <Setting Name="InstellingWachttijdMaxRijtijdVerweglus" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10.0</Value>
+    </Setting>
+    <Setting Name="InstellingWachttijdIntrekkenAanvraag" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">3.0</Value>
+    </Setting>
+    <Setting Name="VRI" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PeriodeVan" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="PeriodeTot" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="VLogBestandEenheid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">dag</Value>
+    </Setting>
+    <Setting Name="InstellingIntervalMinuten" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="InstellingTellenMinHoog" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">0.3</Value>
+    </Setting>
+    <Setting Name="InstellingTellenAlleenKoplussenCsv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CsvFilterMa" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterDi" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterWo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterDo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterVr" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterZa" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterZo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="CsvFilterPer1Actief" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CsvFilterPer1Van" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CsvFilterPer1Tot" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CsvFilterPer2Actief" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CsvFilterPer2Van" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CsvFilterPer2Tot" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="InstellingWachttijdIndivFietsersCsv" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="InstellingTabIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DpfPostUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://</Value>
+    </Setting>
+    <Setting Name="DpfPostUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DpfPostPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DpfPostMaxSizekB" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="DpfVriSelectie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">alle</Value>
+    </Setting>
+    <Setting Name="DpfAnalyse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">alle</Value>
+    </Setting>
+    <Setting Name="DpfAutoPostEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CsvAnalyse" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tellen</Value>
+    </Setting>
+    <Setting Name="DpfAutoPostDtTicks" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AnalyseTabIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="VLC" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
